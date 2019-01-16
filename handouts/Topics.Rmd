@@ -1,0 +1,77 @@
+---
+output: pdf_document
+---
+
+# 1
+What is an R Package?  
+00-Introduction, Slides 14-19
+
+# 2
+What are aesthetics?  
+How do you use them?  
+01-Visualize-Data, Slides 14-19
+
+# 3
+Introduce the babynames data  
+02-Transform-Data, Slides 2-6
+
+# 4
+Why and how to use `%>%`?  
+02-Transform-Data, Slides 43-50
+
+# 5
+What are groupwise operations?  
+02-Transform-Data, Slides 75-80
+
+# 6
+Introduce the flights data  
+02-Transform-Data, Slides 105-109
+
+# 7
+Explain mutating joins  
+02-Transform-Data, Slides 112-117
+
+# 8
+Explain filtering joins  
+02-Transform-Data, Slides 128-130
+
+# 9
+Why use tidy data?  
+03-Tidy Data, Slides 11-16
+
+# 10
+Explain gather  
+03-Tidy Data, Slides 22-41
+
+# 11
+Explain spread  
+03-Tidy Data, Slides 50-66
+
+# 12
+Introduce read_csv/csv files  
+04-Import-Data, Slides 7-10
+
+# 13
+Why use tibbles?  
+04-Import-Data, Slides 15-17
+
+# 14
+How are lists different from atomic vectors?  
+06-Iteration, Slides 7-17
+
+# 15
+How to subset lists  
+06-Iteration, Slides 18-23
+
+# 16
+Explain the map functions  
+06-Iteration, Slides 39-40, 67-68, 74, 76
+
+# 17
+A simple way to think of models (for any  
+student who feels like an imposter)  
+07-Models, Slides 4-11
+
+# 18
+What are list-columns? And why use them?  
+08-List-Columns, Slides 34-37

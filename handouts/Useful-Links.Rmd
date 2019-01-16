@@ -1,0 +1,120 @@
+---
+title: "Useful Links"
+date: "January 16, 2019"
+output:
+  tufte::tufte_handout:
+    latex_engine: xelatex
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+# RStudio Train-the-Trainer: Tidyverse Track
+
+- **<https://github.com/rstudio-education/teach-tidy>** 
+
+    Download today's class materials here.
+
+
+# Master the Tidyverse
+
+- **<https://rstudio.cloud/project/168691>** 
+
+    A sharable RStudio Cloud project set up for Master the Tidyverse students. Contains all of the packages, slides, exercises, and solutions used in class.
+
+- **https://github.com/rstudio-education/master-the-tidyverse>** 
+
+    Student materials for Master the Tidyverse
+
+- **https://github.com/rstudio-education/master-the-tidyverse-instructors>** 
+
+    Instructor materials for Master the Tidyverse
+
+# General
+
+- **<http://rstudio.cloud>** 
+
+    The Log in page for RStudio Cloud
+
+- **<http://tidyverse.org>** 
+
+    Online home of information related to tidyverse packages.
+
+- **<http://shinyapps.io>** 
+
+    A free hosting service for shiny apps
+
+- **<https://www.google.com/slides/about/>** 
+
+    Free slide editor by Google. Can read powerpoint files.
+
+- **<https://www.icloud.com/>** 
+
+    A cloud version of Keynote for anyone with an Apple ID
+
+# Useful Data Sets (For Exercises)
+
+## In Tidyverse Packages
+
+- **dplyr** 
+
+    `band_instruments`, `band_instruments2`, `band_members`, `starwars`, `storms`, `nasa` (array)
+
+- **forcats** 
+
+    `gss_cat`
+
+- **ggplot2** 
+
+    `diamonds`, `economics`, `economics_long`, `faithfuld`, `midwest`, `mpg`, `msleep`, `presidential`, `seals`, `txhousing`, `luv_colours`
+
+- **lubridate** 
+
+    `lakers`
+
+- **modelr**
+
+     `heights`, `sim1`, `sim2`, `sim3`, `sim4`
+
+- **stringr** 
+
+    `fruit` (vector), `sentences` (vector), `words` (vector)
+
+- **tidyr** 
+
+     `population`, `smiths`, `table1`, `table2`, `table3`, `table4a`, `table4b`, `table5`, `who`
+
+## In Other Packages
+
+- **babynames** 
+
+    `applicants`, `babynames`, `births`, `lifetables` 
+
+- **gapminder**
+
+     `continent_colors`, `country_codes`, `country_colors`, `gapminder`, `gapminder_unfiltered`
+
+- **nasaweather**
+
+     `atmos`, `borders`, `elev`, `glaciers`, `storms`
+
+- **nycflights13**
+
+     `airlines`, `airports`, `flights`, `planes`, `weather`
+
+- **repurrrsive**
+
+     `gap_simple`,  `gap_nested`,  `gap_split`,  `gh_repos`, `gh_repos_json`, `gh_repos_xml`, `gh_users`, `gh_users_json`, `gh_users_xml`, `got_chars`, `got_chars_json`, `got_chars_xml`, `sw_films`, (list) `sw_people`, (list) `sw_planets`, (list) `sw_species`, (list) `sw_starships`, (list) `sw_vehicles`, (list) `wesanderson`, (list) `wesanderson_json`, `wesanderson_xml`
+
+## Online
+
+- **https://github.com/rfordatascience/tidytuesday**
+
+     Github Repository for Tidy Tuesday, a collection of data sets and exercises based on them. New data sets are added weekly.
+
+
