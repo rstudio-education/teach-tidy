@@ -9,3 +9,5 @@ Other important links include:
 * <https://github.com/rstudio-education/master-the-tidyverse>, which contains student materials for the _Master the Tidyverse_ workshop
 
 * <https://github.com/rstudio-education/master-the-tidyverse-instructors>, which contains instructor materials for the _Master the Tidyverse_ workshop
+
+* A demo [Master the Tidyverse RStudio Cloud space](https://rstudio.cloud/spaces/8543/join?access_code=5mwNCLtudIh9Rj8%2B0%2BPrVRK%2BbzHZGdltgXLngxHc)
