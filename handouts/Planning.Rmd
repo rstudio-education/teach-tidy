@@ -53,7 +53,7 @@ A learner persona is a short profile of a representative, but perhaps imaginary,
 A useful persona should include the student's
 
 1. General background
-1. Prior knowledge related to the qubject
+1. Prior knowledge related to the subject
 1. Motivation or goal(s)
 1. How the course will help them
 1. Special needs (if any)
