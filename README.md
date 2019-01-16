@@ -1,2 +1,13 @@
-# teach-tidy
-Materials for the Tidyverse Train-the-trainer workshop
+# RStudio Train-the-Trainer: Tidyverse Track
+
+This repository contains the class materials for _Teach Tidy_, the Tidyverse track of RStudio's Train-the-Trainer workshop.
+
+All of the materials are licensed [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). You are welcome to download them your own use, but you do not _need_ them to follow along with today's class.
+
+We will visit the URL https://rstudio.cloud/project/168691 in the afternoon.
+
+Other important links include:
+
+* <https://github.com/rstudio-education/master-the-tidyverse>, which contains student materials for the _Master the Tidyverse_ workshop
+
+* <https://github.com/rstudio-education/master-the-tidyverse-instructors>, which contains instructor materials for the _Master the Tidyverse_ workshop
